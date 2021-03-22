@@ -1,0 +1,91 @@
+	<style type="text/css">
+			
+
+		#div1{
+			background-color: slategrey;
+			border-color:orchid;
+			border-style:double;
+		}
+
+		#div2{
+			background-color:green;
+			position:relative ;
+		}
+
+		div3{
+			border-color:crimson;
+			position:absolute;
+		}
+		
+		#intro{
+			color:aqua;
+			font-size:16;
+		}
+
+		.stuff{
+			color:mediumvioletred;
+			text-decoration: underline;
+			font-size: 16pt;
+			font-style: normal;
+		}	
+
+		input[type=button] {
+			color:darkgreen;
+			background-color:hotpink;
+			padding: 6px;
+		}	
+		span{
+			color:aquamarine;
+			font-size: 20pt;
+			font-family:cursive;
+		}
+
+		p{
+			font-family:fantasy ;
+			font-size: 14pt;
+			color: blue;
+		}
+		
+		h2{
+			font-size:24pt;
+			color:darkgreen;
+			padding-left: 600px;
+		}
+
+		h3{
+			font-style: italic;
+			color:yellow;
+		}
+		
+		h4{
+			color:red;
+			font-style:italic;
+		}
+		body{
+			background-color:gray;
+		}
+		
+		a{
+			color:purple;
+		}
+
+		nav{
+			position: fixed;
+			top: 0px;
+			right: 700px;
+			color:orange;
+			font-size:20pt;
+		}
+		
+		form{
+			padding: 10px;
+			background-color: black;
+			color: white;
+			border-style: dotted;
+		}
+
+		table{
+			color:lime;
+			text-align:center;
+		}
+	</style>
